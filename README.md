@@ -11,7 +11,7 @@
 
 WP Browser Color permet de sélectionner une couleur pour la balise `<meta name="theme-color">`, offrant une personnalisation facile du thème pour les navigateurs.
 
-[![Voir le tutoriel](https://img.youtube.com/vi/tI4HjkcDEjE/maxresdefault.jpg)](https://www.youtube.com/watch?v=tI4HjkcDEjE)
+[![Voir le tutoriel](https://img.youtube.com/vi/tI4HjkcDEjE/hqdefault.jpg)](https://www.youtube.com/watch?v=tI4HjkcDEjE)
 
 
 ## Description
