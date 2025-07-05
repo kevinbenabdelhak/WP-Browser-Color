@@ -4,7 +4,7 @@
 Plugin Name: WP Browser Color
 Plugin URI: https://kevin-benabdelhak.fr/plugins/wp-browser-color/
 Description: WP Browser Color permet de sélectionner une couleur pour la balise <meta name="theme-color">, offrant une personnalisation facile du thème pour les navigateurs.
-Version: 1.0
+Version: 1.1
 Author: Kevin BENABDELHAK
 Author URI: https://kevin-benabdelhak.fr/
 Contributors: kevinbenabdelhak
